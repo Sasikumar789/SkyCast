@@ -4,7 +4,7 @@ SkyCast is a simple, elegant, and responsive weather application built using **H
 It fetches real-time weather data using the OpenWeatherMap API.
 
 ## Live Demo
-[Click here to try SkyCast](https://sasikumar789.github.io/SkyCast/)
+[try SkyCast](https://sasikumar789.github.io/SkyCast/)
 
 ## Features
 - Real-time weather data
@@ -22,3 +22,6 @@ It fetches real-time weather data using the OpenWeatherMap API.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sasikumar789/SkyCast.git
+##👨‍💻 Author
+
+Developed by [Sasi Kumar](https://github.com/Sasikumar789)
