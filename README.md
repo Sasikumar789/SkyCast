@@ -22,6 +22,6 @@ It fetches real-time weather data using the OpenWeatherMap API.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sasikumar789/SkyCast.git
-##👨‍💻 Author
+👨‍💻 Author
 
 Developed by [Sasi Kumar](https://github.com/Sasikumar789)
